@@ -1,15 +1,15 @@
 Проекты в репозитории:
-1. **MNIST_classification**.
+1. [MNIST_classification](MNIST_classification.ipynb)
 Построена полносвязая нейронная сеть для решения задачи классификации чисел на примере набора данных MNIST.
 
-2. **FashionMNIST_classification**.
+3. [FashionMNIST_classification](FashionMNIST_classification.ipynb)
 Сравнение качества полносвязной сети для решения задачи классификации на примере данных FashionMNIST с помощью разных оптимизаторов.
 
-3. **CIFAR10_classficaion**.
+4. [CIFAR10_classficaion](CIFAR10_classficaion.ipynb)
 Построена архитектура сверточной нейронной сети LeNet для задачи классификации изображений из набора данных CIFAR10.
 
-4. **Gesture_classification_TransferLearning**.
+5. [Gesture_classification_TransferLearning](Gesture_classification_TransferLearning.ipynb).
 Классификация жестов с использованием Transfer Learning. Модель обучена двумя способами: Feature Extraction и Fine-tuning.
 
-5. **Faces_VAE**.
+6. [Faces VAE](Faces_VAE.ipynb).
 Реализован вариационный автокодировщик для генерации лиц.
